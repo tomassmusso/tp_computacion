@@ -1,13 +1,13 @@
 # TPServer - 404 Team Found
 
-## 👥 Integrantes del grupo
+## Integrantes del grupo
 
 - Daniel Antoniazzi
 - Tomas Musso
 - Assael Bussi
 
-## 🧠 Descripción
+## Descripción
 
-Trabajo práctico realizado en una máquina virtual Debian 12 ARM64, cuyo objetivo principal fue configurar servicios básicos de red y servidor, implementar backups automáticos y comprender la administración del sistema Linux.
+Trabajo práctico para la materia de Computación Aplicada. Repositorio con archivos entregables subido a traves de los comandos git desde la terminal
 
 ---
